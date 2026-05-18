@@ -1,0 +1,6 @@
+[submodule "Python-scripts-learner"]
+	path = Python-scripts-learner
+	url = https://github.com/Amelia-N-Musana/Python-scripts-learner.git
+[submodule "HTML-learning"]
+	path = HTML-learning
+	url = https://github.com/Amelia-N-Musana/HTML-learning.git
